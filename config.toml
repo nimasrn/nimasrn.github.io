@@ -1,0 +1,16 @@
+baseURL = "http://nimasrn.github.io"
+languageCode = "en-us"
+title = "Nimasrn"
+theme = "hugo-PaperMod"
+author = "nimasrn"
+rss = true
+publishDir = "public"
+canonifyurls = true
+paginate = 7
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+disqusShortname = "nima"
+
+[Author]
+    name = "nima sarayan"
