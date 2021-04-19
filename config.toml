@@ -1,4 +1,4 @@
-baseURL = "https://nimasrn.github.io"
+baseURL = "https://nimasrn.github.io/blog"
 languageCode = "en-us"
 title = "Nimasrn"
 theme = "hugo-PaperMod"
