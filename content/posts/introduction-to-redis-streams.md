@@ -1,6 +1,7 @@
 ---
 title: "Introduction to Redis Streams"
-date: 2021-05-25T13:22:34+04:30 draft: false
+date: 2021-05-25T13:22:34+04:30
+draft: false
 ---
 Redis has introduced a new type of data structure in version 5.0.0, a significant data structure for building
 stream-processing services and message queues like RabitMQ and Apache Kafka it gives you the most simple and powerful to
